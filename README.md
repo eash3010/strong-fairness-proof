@@ -1,5 +1,7 @@
 # Requirements for achieving Strong Response Time Fairness
 
+A technical report following up on *Rethinking Cloud-hosted Financial Exchanges for Response Time Fairness, HotNets 2022.*
+
 ## Authors
 - Prateesh Goyal (Microsoft Research)
 - Ilias Marinos (Microsoft Research)
