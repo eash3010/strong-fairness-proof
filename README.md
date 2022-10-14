@@ -1,3 +1,9 @@
 # Requirements for achieving Strong Response Time Fairness
 
-Define strong response time fairness and prove that the conditions are necessary and sufficient.
+## Authors
+- Prateesh Goyal (Microsoft Research)
+- Ilias Marinos (Microsoft Research)
+- Eashan Gupta (Microsoft Research, UIUC)
+- Chaitanya Bandi (Microsoft Research)
+- Alan Ross (Microsoft)
+- Ranveer Chandra (Microsoft Research) 
